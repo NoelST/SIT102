@@ -1,0 +1,6 @@
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\bin\Debug\Proj1Part1.exe.config
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\bin\Debug\Proj1Part1.exe
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\bin\Debug\Proj1Part1.pdb
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\obj\Debug\Proj1Part1.csprojResolveAssemblyReference.cache
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\obj\Debug\Proj1Part1.exe
+C:\Users\STNoel\Desktop\Deakin 2016 T2\SIT102\ThisOne\Proj1Part1\Proj1Part1\obj\Debug\Proj1Part1.pdb
